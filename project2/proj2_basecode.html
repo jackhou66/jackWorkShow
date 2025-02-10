@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Shop</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="pro2.css">
+</head>
+<body>
+
+    <div class="container">
+        <main>
+       <article>
+        <h2>Product Web Shop</h2>
+        </article>
+        <section class="content-section">
+        <article>
+            <h3>Add a New Product</h3>
+            <form   id="product-form">
+                <fieldset>
+                <input type="text" id="name" name="name"  placeholder="Product Name">
+                <input type="text" id="price" name="price" placeholder="Price">
+                <input type="text" id="image" name="image" placeholder="Image URL(optional)">
+                <textarea  id="description" name="description" placeholder="Description"></textarea>
+                <button type="submit" >Add Product</button>
+                </fieldset>
+            </form>
+        <h3>Search Product</h3>
+            <input type="text" id="search" name="search" placeholder="Search Product">
+            <button type="submit" class="search">Search</button>
+        <h3>Products</h3>
+   
+        <div id="product-list">  </div>  
+     
+        <h3>Shopping Cart</h3>
+        <div id="cart">
+        <div>Cart Items: <span id="cart-counter">0</span></div>
+        <div id="cart-summary"></div>
+        </div>
+
+        <button clear type="submit" id="clear-cart">Clear Cart</button>
+         </article>
+        </section>
+      </main>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            let products = [];     
+            let cart = [];           
+            const Item = {name:"Fiat", price:"500", image:  "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", description:"A car"};
+            const Item2 = {name:"Fiat", price:"500", image:"https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", description:"A car"};
+            let count = 0;                  
+            function addProduct() {          
+                let name = $('#name').val();
+                let price = $('#price').val();
+                let image = $('#image').val();
+                let description = $('#description').val();
+                if (!name || !price) {
+                    alert("Product name and price are required!");
+                    return;
+                }
+                if (!image) {
+                 image = "https://via.placeholder.com/150"; 
+                 }
+                let product = {id: ++count,name, price, image, description};
+                products.push(product);
+                displayProducts();
+                $('#name, #price, #image, #description').val('');
+            }
+        
+            function displayProducts() {
+                let productList = $('#product-list');
+                productList.html('');
+                products.forEach((p) => {
+                    productList.append(`
+                        <div class="product" data-id="${p.id}">
+                            <h4>${p.name} - $${p.price}</h4>
+                            <img src="${p.image}" alt="${p.name}"onerror="this.onerror=null; this.src='pic2.jpg';" >
+                            <button class="view-details">View Details</button>
+                            <p class="hidden">${p.description}</p>
+                            <button class="add-to-cart">Add to Cart</button>
+                        </div>
+                    `);
+                });
+    }
+         $('#product-list').on('click', '.view-details', function() {
+            $(this).siblings('p').slideToggle(3000);
+        });
+            $('#product-form').submit(function(event) {
+            event.preventDefault(); 
+            addProduct();
+         });
+        
+         $('#search').keyup(function() {
+            let query = $(this).val().toLowerCase();
+            $('#product-list .product').filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(query) > -1);
+            });
+          });
+
+         $('#product-list').on('click', '.add-to-cart', function() {
+            let productId = $(this).closest('.product').data('id');
+            for (let i = 0; i < products.length; i++) {
+                if (products[i].id === productId) {
+                    cart.push(products[i]);
+                    break;
+                }
+            }
+            updateCart();
+          });
+        function updateCart() {
+    let totalPrice = cart.reduce((total, item) => total + parseFloat(item.price), 0);
+    let totalItems = cart.length;
+    
+    $('#cart-counter').text(totalItems);
+    
+    let summaryText = `Total Items: ${totalItems} | Total Price: $${totalPrice.toFixed(2)}`;
+    
+    $('#cart-summary').text(summaryText);
+        let productNames = cart.map(item => item.name).join(', ');
+        $('#cart-summary').text(summaryText + " | Products: " + productNames);
+   }
+      $('#clear-cart').click(function() {
+                cart = [];
+                updateCart();
+           });
+        });
+    
+    </script>
+       <!-- Footer -->
+       <footer>
+        <p>&copy; 2025 jiancai Website</p>
+      </footer>
+</body>
+</html>
