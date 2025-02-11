@@ -1,5 +1,5 @@
 jscript  exercise: Web shop
-![image](https://github.com/user-attachments/assets/2eb496f9-a93c-497c-b14e-76022fc8ec6f)
+![image](https://github.com/user-attachments/assets/f1817957-8836-459a-880d-4e4c7300649c)
 
 React Java|springboot  mongodb   exercise: Film review platform
 ![image](https://github.com/user-attachments/assets/dfd85ea0-57f2-4994-bb22-4049233a35da)
