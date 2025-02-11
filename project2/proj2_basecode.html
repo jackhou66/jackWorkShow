@@ -92,14 +92,14 @@
             event.preventDefault(); 
             addProduct();
          });
-        
+         //  check it in search case 
          $('#search').keyup(function() {
             let query = $(this).val().toLowerCase();
             $('#product-list .product').filter(function() {
               $(this).toggle($(this).text().toLowerCase().indexOf(query) > -1);
             });
           });
-
+          //  check it in search ID  case   each product view has a id , we search it and then add it to the cart   
          $('#product-list').on('click', '.add-to-cart', function() {
             let productId = $(this).closest('.product').data('id');
             for (let i = 0; i < products.length; i++) {
@@ -111,23 +111,23 @@
             updateCart();
           });
         function updateCart() {
-    let totalPrice = cart.reduce((total, item) => total + parseFloat(item.price), 0);
-    let totalItems = cart.length;
-    
-    $('#cart-counter').text(totalItems);
-    
-    let summaryText = `Total Items: ${totalItems} | Total Price: $${totalPrice.toFixed(2)}`;
-    
-    $('#cart-summary').text(summaryText);
-        let productNames = cart.map(item => item.name).join(', ');
-        $('#cart-summary').text(summaryText + " | Products: " + productNames);
-   }
+            //reduce() is used to iterate over the cart array and accumulate a single result 
+            let totalPrice = cart.reduce((total, item) => total + parseFloat(item.price), 0);
+            let totalItems = cart.length;
+            $('#cart-counter').text(totalItems);
+            let summaryText = `Total Items: ${totalItems} | Total Price: $${totalPrice.toFixed(2)}`;
+            $('#cart-summary').text(summaryText);
+            let productNames = cart.map(item => item.name + " - $" + item.price ).join(', ');
+            $('#cart-summary').text(summaryText + " | Products: " + productNames);
+
+        }
+
       $('#clear-cart').click(function() {
                 cart = [];
                 updateCart();
            });
-        });
-    
+
+    });
     </script>
        <!-- Footer -->
        <footer>
