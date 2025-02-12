@@ -47,15 +47,14 @@ main {
     margin-bottom: 2rem;
 }
     */
-    #product-form fieldset {
+#product-form fieldset {
         display: flex;
         flex-wrap: wrap; /* Allows wrapping on smaller screens */
         gap: 10px; /* Adds spacing between elements */
         align-items: center; /* Aligns items properly */
         border: none; /* Optional: Removes default fieldset border */
         padding: 0;
-    }
-
+}
 #product-form input,
 #product-form button {
     padding: 0.85rem;
