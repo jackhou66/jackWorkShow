@@ -11,5 +11,3 @@ C++ | Qt control platform  interact with Jetson nano device   Hand on work
 
 
 
-
-[Uploading 916.-Learning-English-in-2025-with-Lukes-English-Podcast-.pdf…]()
