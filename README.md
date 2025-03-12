@@ -8,6 +8,6 @@ React Java|springboot  mongodb   exercise: Films review platform
 C++ | Qt control platform  interact with Jetson nano device   Hand on work
 ![image](https://github.com/user-attachments/assets/11ff122e-3746-4b16-865c-899b9473d443)
 
-
+https://youtu.be/yrW31CblupQ  ROBOT
 
 
