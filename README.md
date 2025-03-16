@@ -1,5 +1,5 @@
 # Projects Portfolio
-![Rtabmap Project](https://github.com/user-attachments/assets/d3afe528-8b6e-4c6c-952e-272b03bd387f)  
+![Portfolio]![image](https://github.com/user-attachments/assets/3d8bf51a-0ae2-4a46-8286-1cf0f2923ea4)
 ## 1. Project: 
 ![Project 1](https://github.com/user-attachments/assets/96b9818d-004b-4913-a684-c0d527268150) 
 [Watch on YouTube](https://youtu.be/yrW31CblupQ)
@@ -42,6 +42,8 @@ https://youtu.be/Dc7NZb7aukk
 For detailed project descriptions, check out the individual links to YouTube videos and images above.
 
 ---
+## Activity
+![WhatsApp Image 2024-10-29 at 18 44 24_55c2160f - Copy](https://github.com/user-attachments/assets/6413265a-623a-4b30-b8e4-4b993a62d5d3)
 
 ### Contact Information
 
