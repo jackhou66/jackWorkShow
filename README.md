@@ -6,7 +6,7 @@ https://youtu.be/yrW31CblupQ
 Rtabmap buid map , no any lidar asistance,jetson orin nano & iRobot Educational Robot
 https://youtu.be/tltUpk8XZ5o
 
-Gesture detection, start/stop robot,esp32,arduino,jetson orin nano,micro-ROS-Agent,a hand-crafted Robot:
+Gesture detection, start/stop a hand-crafted Robot with esp32,arduino,jetson orin nano,micro-ROS-Agent middleware:
 https://youtube.com/shorts/r0FatsllfV0?feature=share
 ![image](https://github.com/user-attachments/assets/be623a7b-9a39-4db3-a6d5-79377ae1d86e)
 
