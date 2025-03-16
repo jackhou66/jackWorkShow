@@ -4,8 +4,7 @@
 GPS data fusion ,Voice Control & Navigation2,a hand-crafted Robot
 https://youtu.be/yrW31CblupQ  
 
-2.Internship project:
-Rtabmap based map , no any lidar asistance,jetson orin nano & iRobot Educational Robot
+![image](https://github.com/user-attachments/assets/719a2ec0-f648-4d55-84d6-1adef0a07313)
 https://youtu.be/tltUpk8XZ5o
 
 3.Course-based project:
