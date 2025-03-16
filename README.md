@@ -1,17 +1,17 @@
 ROBOT 
 
-GPS data fusion ,Voice Control Map Navigation Robot
+GPS data fusion ,Voice Control Map & Navigation ,a hand-crafted Robot
 https://youtu.be/yrW31CblupQ  
 
-Rtabmap buid map , no any lidar asistance,jetson orin nano and iRobot Educational Robot
+Rtabmap buid map , no any lidar asistance,jetson orin nano & iRobot Educational Robot
 https://youtu.be/tltUpk8XZ5o
 
-Gesture detection, start/stop robot,esp32,arduibo, jetson orin nano , micro-ROS-Agent:
+Gesture detection, start/stop robot,esp32,arduino,jetson orin nano,micro-ROS-Agent,a hand-crafted Robot:
 https://youtube.com/shorts/r0FatsllfV0?feature=share
+![image](https://github.com/user-attachments/assets/be623a7b-9a39-4db3-a6d5-79377ae1d86e)
 
 Digital Twins
 https://youtu.be/Dc7NZb7aukk  PatientQueueSinulation
-
 
 Software
 C++ | Qt control platform  interact with Jetson nano device   Hand on work
