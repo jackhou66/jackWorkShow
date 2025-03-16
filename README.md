@@ -38,13 +38,6 @@ No LiDAR assistance, Jetson Orin Nano & iRobot Educational Robot.
 
 ---
 
-### How to Use
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Start the application with `npm start`.
-4. Explore the functionalities in each project section above.
-
 For detailed project descriptions, check out the individual links to YouTube videos and images above.
 
 ---
@@ -52,3 +45,4 @@ For detailed project descriptions, check out the individual links to YouTube vid
 ### Contact Information
 
 Feel free to contact me for any inquiries or collaborations!
+gmail:kaolalaotongxue@gmail.com
