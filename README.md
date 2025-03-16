@@ -13,12 +13,10 @@ Digital Twins
 https://youtu.be/Dc7NZb7aukk  PatientQueueSinulation
 
 
-https://github.com/user-attachments/assets/f7e915fb-035e-42f5-ac0e-54742fd6e0a9
-
-
 Software
 C++ | Qt control platform  interact with Jetson nano device   Hand on work
-![image](https://github.com/user-attachments/assets/11ff122e-3746-4b16-865c-899b9473d443)
+
+https://github.com/user-attachments/assets/f7e915fb-035e-42f5-ac0e-54742fd6e0a9
 
 frontend
 
