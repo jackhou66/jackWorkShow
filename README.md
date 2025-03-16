@@ -1,6 +1,13 @@
 ROBOT 
 
-https://youtu.be/yrW31CblupQ  ROBOT
+GPS data fusion ,Voice Control Map Navigation Robot
+https://youtu.be/yrW31CblupQ  
+
+ratabmap buid map , no any lidar asistance 
+https://youtu.be/tltUpk8XZ5o
+
+Gesture detection, start/stop robot:
+https://youtube.com/shorts/r0FatsllfV0?feature=share
 
 Digital Twins
 https://youtu.be/Dc7NZb7aukk  PatientQueueSinulation
