@@ -3,10 +3,10 @@ ROBOT
 GPS data fusion ,Voice Control Map Navigation Robot
 https://youtu.be/yrW31CblupQ  
 
-ratabmap buid map , no any lidar asistance 
+Rtabmap buid map , no any lidar asistance,jetson orin nano and iRobot Educational Robot
 https://youtu.be/tltUpk8XZ5o
 
-Gesture detection, start/stop robot:
+Gesture detection, start/stop robot,esp32,arduibo, jetson orin nano , micro-ROS-Agent:
 https://youtube.com/shorts/r0FatsllfV0?feature=share
 
 Digital Twins
