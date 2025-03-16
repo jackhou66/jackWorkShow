@@ -9,7 +9,7 @@
 [Watch on YouTube](https://youtu.be/tltUpk8XZ5o)
 
 ## 3.Project: 
-
+![image](https://github.com/user-attachments/assets/0c2693b4-89db-408d-80a1-f7bca4811440)
 [Watch on YouTube](https://youtube.com/shorts/r0FatsllfV0?feature=share)
 
 ---
