@@ -1,15 +1,15 @@
 ROBOT 
 
 1.Course-based project:
-GPS data fusion ,Voice Control Map & Navigation ,a hand-crafted Robot
+GPS data fusion ,Voice Control & Navigation2,a hand-crafted Robot
 https://youtu.be/yrW31CblupQ  
 
 2.Internship project:
-Rtabmap buid map , no any lidar asistance,jetson orin nano & iRobot Educational Robot
+Rtabmap based map , no any lidar asistance,jetson orin nano & iRobot Educational Robot
 https://youtu.be/tltUpk8XZ5o
 
 3.Course-based project:
-Gesture detection, start/stop a hand-crafted Robot with esp32,arduino,jetson orin nano,micro-ROS-Agent middleware:
+Gesture detection based start/stop a hand-crafted Robot with esp32,arduino,jetson orin nano,micro-ROS-Agent middleware:
 https://youtube.com/shorts/r0FatsllfV0?feature=share
 ![image](https://github.com/user-attachments/assets/59bd5caf-f6fe-446e-8847-51110bc3411c)
 
