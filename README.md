@@ -46,4 +46,4 @@ For detailed project descriptions, check out the individual links to YouTube vid
 ### Contact Information
 
 Feel free to contact me for any inquiries or collaborations!
-Gmail:kaolalaotongxue@gmail.com
+Email:kaolalaotongxue@gmail.com
