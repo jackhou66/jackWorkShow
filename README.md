@@ -16,7 +16,8 @@
 
 ## 4. Internship Project: Digital Twins
 **Patient Queue Simulation**
-
+https://youtu.be/Dc7NZb7aukk
+## 5. Project
 ![Digital Twins Image](https://github.com/user-attachments/assets/70e6b2f1-e769-4f2a-bc8c-64138812ccf8)  
 [Watch on YouTube](https://youtu.be/B7Z8EBj9Y_Q)
 
