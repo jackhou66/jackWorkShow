@@ -23,7 +23,7 @@
 
 ---
 
-## 5. Films Review Platform (React, Java, MongoDB)
+## Films Review Platform (React, Java, MongoDB)
 
 ![Films Review Platform](https://github.com/user-attachments/assets/dfd85ea0-57f2-4994-bb22-4049233a35da)
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 6. Web Shop (Pure JavaScript)
+## Web Shop (Pure JavaScript)
 
 ![Web Shop](https://github.com/user-attachments/assets/be1f31ca-5935-419e-812f-ea7335ef770a)
 
