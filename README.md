@@ -1,5 +1,5 @@
 # Projects Portfolio
-![Portfolio]![image](https://github.com/user-attachments/assets/3d8bf51a-0ae2-4a46-8286-1cf0f2923ea4)
+[image](https://github.com/user-attachments/assets/3d8bf51a-0ae2-4a46-8286-1cf0f2923ea4)
 ## 1. Project: 
 ![Project 1](https://github.com/user-attachments/assets/96b9818d-004b-4913-a684-c0d527268150) 
 [Watch on YouTube](https://youtu.be/yrW31CblupQ)
