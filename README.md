@@ -6,7 +6,7 @@ https://youtu.be/yrW31CblupQ
 ![image](https://github.com/user-attachments/assets/017e2d2a-6075-458d-839d-1728f8221d8b)
 https://youtu.be/tltUpk8XZ5o
 
-![image](https://github.com/user-attachments/assets/4baf659a-b5d1-46fd-b5ea-f5b8ce383852)
+![image](https://github.com/user-attachments/assets/44f6cff1-132a-440c-846b-3dc926a4fabf)
 https://youtube.com/shorts/r0FatsllfV0?feature=share
 ![image](https://github.com/user-attachments/assets/59bd5caf-f6fe-446e-8847-51110bc3411c)
 
