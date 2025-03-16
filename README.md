@@ -1,4 +1,4 @@
-Project Overview of Jack
+![image](https://github.com/user-attachments/assets/deb7c634-07fd-41f9-a442-bdd28d56e754)
 
 1.Course-based project:
 GPS data fusion ,Voice Control & Navigation2,a hand-crafted Robot
