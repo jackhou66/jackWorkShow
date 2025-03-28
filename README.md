@@ -61,10 +61,12 @@ https://github.com/tomasvr/turtlebot3_drlnav
 https://github.com/Zhefan-Xu/NavRL  
 https://snapcraft.io/install/obsidian/ubuntu#install
 https://github.com/TommasoVandermeer/Hospitalbot-Path-Planning?tab=readme-ov-file  
-https://github.com/jindadu00/legged_robot_competition  
+https://github.com/jindadu00/legged_robot_competition 
+![image](https://github.com/user-attachments/assets/f4d91884-2e75-4756-92c0-76181b83e6f3)
+https://github.com/fan-ziqi/rl_sar/tree/ros2
 rl_sar
 walk-these-ways-go2 
-
+https://github.com/Teddy-Liao/walk-these-ways-go2?tab=readme-ov-file
 [17:06, 28/03/2025] 🔕 Jack: 困=_=
 [23:06, 28/03/2025] 🔕 Jack: 專案地址在：https://github.com/jindadu00/legged_robot_competition.git
 [23:11, 28/03/2025] 🔕 Jack: 【开源项目分享：基于Isaac Gym的四足机器狗强化学习控制翻越梅花桩-哔哩哔哩】 https://b23.tv/11AFLkU
