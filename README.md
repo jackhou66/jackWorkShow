@@ -62,6 +62,8 @@ https://github.com/Zhefan-Xu/NavRL
 https://snapcraft.io/install/obsidian/ubuntu#install
 https://github.com/TommasoVandermeer/Hospitalbot-Path-Planning?tab=readme-ov-file  
 https://github.com/jindadu00/legged_robot_competition  
+rl_sar
+walk-these-ways-go2 
 
 [17:06, 28/03/2025] 🔕 Jack: 困=_=
 [23:06, 28/03/2025] 🔕 Jack: 專案地址在：https://github.com/jindadu00/legged_robot_competition.git
