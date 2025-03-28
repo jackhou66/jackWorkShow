@@ -1,6 +1,6 @@
 
 https://github.com/Zhefan-Xu/NavRL  
-
+https://snapcraft.io/install/obsidian/ubuntu#install
 
 
 
