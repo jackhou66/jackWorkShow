@@ -1,6 +1,4 @@
-https://github.com/tomasvr/turtlebot3_drlnav
-https://github.com/Zhefan-Xu/NavRL  
-https://snapcraft.io/install/obsidian/ubuntu#install
+
 
 
 
@@ -55,3 +53,10 @@ For detailed project descriptions, check out the individual links to YouTube vid
 
 Feel free to contact me for any inquiries or collaborations!
 Email:kaolalaotongxue@gmail.com
+
+
+https://github.com/tomasvr/turtlebot3_drlnav
+
+
+https://github.com/Zhefan-Xu/NavRL  
+https://snapcraft.io/install/obsidian/ubuntu#install
