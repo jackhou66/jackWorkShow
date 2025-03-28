@@ -60,3 +60,11 @@ https://github.com/tomasvr/turtlebot3_drlnav
 
 https://github.com/Zhefan-Xu/NavRL  
 https://snapcraft.io/install/obsidian/ubuntu#install
+https://github.com/TommasoVandermeer/Hospitalbot-Path-Planning?tab=readme-ov-file  
+
+
+[17:06, 28/03/2025] 🔕 Jack: 困=_=
+[23:06, 28/03/2025] 🔕 Jack: 專案地址在：https://github.com/jindadu00/legged_robot_competition.git
+[23:11, 28/03/2025] 🔕 Jack: 【开源项目分享：基于Isaac Gym的四足机器狗强化学习控制翻越梅花桩-哔哩哔哩】 https://b23.tv/11AFLkU
+[23:11, 28/03/2025] 🔕 Jack: 【强化学习框架-Legged Gym 训练代码详解-哔哩哔哩】 https://b23.tv/sR7GPYW
+[23:12, 28/03/2025] 🔕 Jack: 【NVIDIA公开课AI机器人开发第一讲NVIDIA_Isaac_Sim_入门-哔哩哔哩】 https://b23.tv/cCA9Pto
