@@ -81,3 +81,7 @@ Safe Quadruped Navigation
 https://github.com/awesomericky/complex-env-navigation?tab=readme-ov-file
 https://docs.wandb.ai/quickstart/
 https://raisim.com/sections/RaisimGymTorch.html
+
+
+nv2
+https://github.com/jizhang-cmu/autonomy_stack_go2?tab=readme-ov-file
